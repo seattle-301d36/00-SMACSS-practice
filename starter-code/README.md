@@ -1,6 +1,6 @@
 ##### How did you determine which rules should be placed in each new CSS file?
 
-(Put your answer here)
+Just my best guess where to put things based on the information given from the smacssify exercise instructions.
 
 ---
 
