@@ -1,0 +1,26 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#logo {
+  float: left;
+  padding-bottom: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+nav ul {
+  float: right;
+}
+
+footer section p{
+  padding: 50px 0;
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
