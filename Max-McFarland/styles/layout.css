@@ -1,0 +1,60 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#logo {
+  float: left;
+  padding-bottom: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+#logo img {
+  float: left;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+  background-image: url('img/hr-img.gif');
+}
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+aside img {
+  float: left;
+}
+section hr {
+  border-bottom: 1px solid #eee;
+  height: 0;
+}
+.date {
+  float: left;
+}
+
+.print {
+  text-decoration: none;
+  padding-left: 30px;
+  float: right;
+}
+
+.print img {
+  margin-right: 3px;
+}
