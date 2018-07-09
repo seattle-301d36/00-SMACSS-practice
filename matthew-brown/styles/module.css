@@ -1,6 +1,7 @@
 /* small items (list items, photos) */
 
 /*  classes */
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
 
 .print, .date {
   color: #a9a8a5;
